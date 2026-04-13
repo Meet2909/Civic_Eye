@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['dustbin', 'garbage']
+
+roboflow:
+  workspace: meets-workspace-mncm2
+  project: civiceye-dustbin
+  version: 8
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/meets-workspace-mncm2/civiceye-dustbin/dataset/8
