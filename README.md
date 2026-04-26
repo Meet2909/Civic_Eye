@@ -60,10 +60,9 @@ The core detection model utilizes **YOLO26**, optimized for rapid edge inference
 ---
 
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/907823ce-e936-4982-99a0-82c8f6430371" width="320" autoplay loop muted playsinline>
-  </video>
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/907823ce-e936-4982-99a0-82c8f6430371" width="800" muted playsinline></video>
+</div>
 
 
 
