@@ -79,7 +79,9 @@ The core detection model utilizes **YOLO26**, optimized for rapid edge inference
 git clone [https://github.com/Meet2909/CivicEye.git](https://github.com/Meet2909/CivicEye.git)
 cd CivicEye
 
-## 2. Setup the Vision Environment
+---
+
+# 2. Setup the Vision Environment
 ```bash
 python -m venv edge_env
 source edge_env/bin/activate  # On Windows use `edge_env\Scripts\activate`
