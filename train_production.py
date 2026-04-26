@@ -13,10 +13,10 @@ def train_production_model():
     # The Production Training Protocol
     results = model.train(
         data=dataset_yaml,
-        epochs=150,            # Upgraded for maximum convergence
-        patience=25,           # Will stop early if it doesn't improve for 25 epochs
-        imgsz=1024,            # Locked in at high-res 1024x1024
-        batch=8,               # Hard-capped to protect the 16GB VRAM
+        epochs=150,            
+        patience=25,           
+        imgsz=1024,                    
+        batch=8,               
         device=0,               
         workers=4,              
         

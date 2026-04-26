@@ -66,7 +66,7 @@ def sniper_thread(weights_path):
 
 def run_async_pipeline():
     print("--- INITIATING STABILIZED ASYNC HYBRID PIPELINE ---")
-    weights_path = "best.pt"
+    weights_path = "runs/detect/CivicEye_Production/final_weights_v1/weights/best.pt"
     
     # 1. Start Background Sniper
     sniper = threading.Thread(target=sniper_thread, args=(weights_path,), daemon=True)
