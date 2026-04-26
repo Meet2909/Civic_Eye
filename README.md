@@ -31,12 +31,9 @@ The core detection model utilizes **YOLO26**, optimized for rapid edge inference
 
 ##  Performance & Results
 
-<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/35dce19f-b825-4e30-b820-2dc9a9bd60e7" />
-
-<img width="1920" height="1108" alt="val_batch2_labels" src="https://github.com/user-attachments/assets/9041ee89-92b0-4512-99d9-9da8c4e626bc" />
-
-<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/026dcef1-0021-4f84-a429-dab122350de1" />
-
+<img width="2400" height="1200" alt="results" src="https://github.com/user-attachments/assets/35dce19f-b825-4e30-b820-2dc9a9bd60e7" /> \
+<img width="1920" height="1108" alt="val_batch2_labels" src="https://github.com/user-attachments/assets/9041ee89-92b0-4512-99d9-9da8c4e626bc" /> \
+<img width="3000" height="2250" alt="confusion_matrix_normalized" src="https://github.com/user-attachments/assets/026dcef1-0021-4f84-a429-dab122350de1" /> 
 
 ### Inference Benchmarks
 * **Hardware:** Local Intel i7 CPU
@@ -50,12 +47,12 @@ The core detection model utilizes **YOLO26**, optimized for rapid edge inference
 
 
 ### Real-World Detection Samples
-<img width="1920" height="1108" alt="val_batch1_pred" src="https://github.com/user-attachments/assets/70291beb-8ea3-421b-b24a-9c18d3336340" />
-<img width="1920" height="1108" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/9364888f-5510-4a3a-a03a-cb46b71d518e" />
-<img width="1920" height="876" alt="val_batch0_pred" src="https://github.com/user-attachments/assets/cd9b5a43-d64e-4000-aefa-3d91167ee2ad" />
-<img width="1920" height="876" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/e763ab4e-4ed3-4442-88c6-f258d54be2fd" />
-<img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/4378fcae-64cf-40eb-ac17-b78ac0a28293" />
-<img width="1920" height="1108" alt="val_batch2_pred" src="https://github.com/user-attachments/assets/8d0bb99d-c24d-4220-a11f-f6696a6be54d" />
+<img width="1920" height="1108" alt="val_batch1_pred" src="https://github.com/user-attachments/assets/70291beb-8ea3-421b-b24a-9c18d3336340" /> \
+<img width="1920" height="1108" alt="val_batch1_labels" src="https://github.com/user-attachments/assets/9364888f-5510-4a3a-a03a-cb46b71d518e" /> \
+<img width="1920" height="876" alt="val_batch0_pred" src="https://github.com/user-attachments/assets/cd9b5a43-d64e-4000-aefa-3d91167ee2ad" /> \
+<img width="1920" height="876" alt="val_batch0_labels" src="https://github.com/user-attachments/assets/e763ab4e-4ed3-4442-88c6-f258d54be2fd" /> \
+<img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/4378fcae-64cf-40eb-ac17-b78ac0a28293" /> \
+<img width="1920" height="1108" alt="val_batch2_pred" src="https://github.com/user-attachments/assets/8d0bb99d-c24d-4220-a11f-f6696a6be54d" /> \
 
 ---
 
